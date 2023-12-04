@@ -50,7 +50,8 @@ Replace `<repository-url>` with the URL of your GitHub repository.
 ```bash
 git push -u origin master
 ```
-``npm start``
+```bash 
+npm start```
 
 #### 7. Verify Your Code on GitHub
 Visit your GitHub repository in the browser to verify that your React project has been successfully uploaded.
