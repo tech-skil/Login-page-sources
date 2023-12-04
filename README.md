@@ -23,6 +23,10 @@ This project focuses on creating a responsive login page using React.js. The goa
 npx create-react-app react-login-page
 cd react-login-page
 ```
+```bash 
+npm start
+
+```
 
 #### 2. Initialize a Git Repository
 ```bash
@@ -49,10 +53,6 @@ Replace `<repository-url>` with the URL of your GitHub repository.
 #### 6. Push Your Code to GitHub
 ```bash
 git push -u origin master
-```
-```bash 
-npm start
-
 ```
 
 #### 7. Verify Your Code on GitHub
